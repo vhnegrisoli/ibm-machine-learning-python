@@ -6,7 +6,7 @@ de obtenção da Badge de Machine Learning Using Python fornecida pela IBM.
 O curos irá focar em Aprendizado Supervisionado e Não-Supervisionado, apresentando conceitos de:
 
 * Regressão Linear Simples e Múltipla
-* Regres não-linear
+* Regressão não-linear
 * Avaliação de modelo
 * Avaliação de métricas a serem utilizadas
 * Classificação
