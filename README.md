@@ -1,5 +1,7 @@
 # IBM Badge - Machine Learning With Python
 
+![IBM Badge](https://uploaddeimagens.com.br/images/002/760/584/original/badge.png?1594347177)
+
 ### Objetivos
 
 Este repositório destina-se aos notebooks desenvolvidos durante o curso Machine Learning With Python com objetivo
