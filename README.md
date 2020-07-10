@@ -25,11 +25,11 @@ O curos irá focar em Aprendizado Supervisionado e Não-Supervisionado, apresent
 
 O curso é totalmente desenvolvido utilizando a tecnologia Python, focando nas bibliotecas:
 
-* Jupyter Notebook como a principal ferramenta de desenvolvimento e apresentação
-* Pandas para extração, análise e tratamento dos dados
-* Matplotlib para plotagem dos dados
-* NumPy para tratamento avançado de arrays para as análises
-* Scikit-Learn como a biblioteca base dos algoritmos de Machine Learning
+* **Jupyter Notebook** como a principal ferramenta de desenvolvimento e apresentação
+* **Pandas** para extração, análise e tratamento dos dados
+* **Matplotlib** para plotagem dos dados
+* **NumPy** para tratamento avançado de arrays para as análises
+* **Scikit-Learn** como a biblioteca base dos algoritmos de Machine Learning
 
 ### Victor Hugo Negrisoli
 ### Desenvolvedor Full-Stack Pleno & Analista de Dados
