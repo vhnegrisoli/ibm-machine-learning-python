@@ -38,7 +38,9 @@ O curso é totalmente desenvolvido utilizando a tecnologia Python, focando nas b
 
 O curso foi finalizado com 89% de aproveitamento (nota final).
 
-Obtive um certificado pela IBM através da plataforma Acclaim, pode ser conferido ![aqui](https://www.youracclaim.com/badges/644e70da-04a9-445f-90ee-89057c697123?source=linked_in_profile).
+Obtive um certificado pela IBM através da plataforma Acclaim, pode ser conferido [aqui](https://www.youracclaim.com/badges/644e70da-04a9-445f-90ee-89057c697123).
+
+O certificado da Cognitive Class pode ser conferido [aqui](https://courses.cognitiveclass.ai/certificates/5f8e76d929fd4454932d14927be27d35).
 
 #### Certificação da Badge Machine Learning with Python - Level 1:
 
